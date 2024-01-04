@@ -11,11 +11,10 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: url("https://i.postimg.cc/Kjd07mHJ/card.png";
-
+  background: #6563FF;
 }
 .wrapper{
-  padding: 35px;
+  padding: 25px;
   border-radius: 10px;
   background: #F8F8F8;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
@@ -26,8 +25,8 @@ body{
   justify-content: center;
 }
 .cards{
-  height: 500px;
-  width: 500px;
+  height: 400px;
+  width: 400px;
   flex-wrap: wrap;
   justify-content: space-between;
 }
@@ -73,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 115px;
+  width: 19px;
 }
 .card .back-view img{
-  max-width: 115px;
+  max-width: 45px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
@@ -94,7 +93,7 @@ body{
     width: 350px;
   }
   .card .front-view img{
-    width: 125px;
+    width: 17px;
   }
   .card .back-view img{
     max-width: 40px;
@@ -107,7 +106,7 @@ body{
     width: 300px;
   }
   .card .front-view img{
-    width: 55px;
+    width: 15px;
   }
   .card .back-view img{
     max-width: 35px;
