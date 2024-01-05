@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: main('bg.png');
+  background-image: url('main/bg.png');
 }
 .wrapper{
   padding: 25px;
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 149px;
+  width: 120px;
 }
 .card .back-view img{
-  max-width: 155px;
+  max-width: 120px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
