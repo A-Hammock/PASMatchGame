@@ -15,8 +15,8 @@ body{
 }
 .wrapper{
   padding: 120px;
-  border-radius: 5px;
-  background: transparent;
+  border-radius: 10px;
+  background: #FFD700 rgba(0, 0, 0, 0);
   box-shadow: 0 0px 0px rgba(0,0,0,0.1);
 }
 .cards, .card, .view{
