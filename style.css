@@ -29,7 +29,7 @@ body{
   width: 400px;
   flex-wrap: wrap;
   justify-content: space-between;
-  min-height: 50px;
+  min-height: 100px;
 }
 .cards .card{
   cursor: pointer;
