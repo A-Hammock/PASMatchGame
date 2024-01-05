@@ -21,6 +21,7 @@ body{
 }
 .cards, .card, .view{
   display: flex;
+  gap: 5px;
   align-items: center;
   justify-content: center;
 }
