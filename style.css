@@ -15,8 +15,8 @@ body{
 }
 .wrapper{
   padding: 100px;
-  border-radius: 10px;
-  background: #FFD700 rgba(0, 0, 0, 0);
+  border-radius: 1px;
+  background: #FFD700;
   box-shadow: 0 0px 0px rgba(0,0,0,0.1);
 }
 .cards, .card, .view{
@@ -28,7 +28,7 @@ body{
   height: 400px;
   width: 400px;
   flex-wrap: wrap;
-  justify-content: space-between, space-around;
+  justify-content: space-between;
 }
 .cards .card{
   cursor: pointer;
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 100px;
+  width: 250px;
 }
 .card .back-view img{
-  max-width: 100px;
+  max-width: 250px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
