@@ -29,7 +29,6 @@ body{
   width: 450px;
   flex-wrap: wrap;
   justify-content: space-between;
-    gap: 10px;
 }
 .cards .card{
   cursor: pointer;
