@@ -25,10 +25,10 @@ body{
   justify-content: center;
 }
 .cards{
-  height: 550px;
-  width: 550px;
+  height: 400px;
+  width: 400px;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-between 10px;
 }
 .cards .card{
   cursor: pointer;
