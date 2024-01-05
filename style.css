@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 120px;
+  width: 100px;
 }
 .card .back-view img{
-  max-width: 120px;
+  max-width: 100px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
