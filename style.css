@@ -25,8 +25,8 @@ body{
   justify-content: center;
 }
 .cards{
-  height: 400px;
-  width: 400px;
+  height: 500px;
+  width: 500px;
   flex-wrap: wrap;
   justify-content: space-between;
 }
