@@ -14,7 +14,7 @@ body{
   background-image: url('bg.png');
 }
 .wrapper{
-  padding: 70px;
+  padding: 25px;
   border-radius: 10px;
   background: none;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
@@ -37,8 +37,8 @@ body{
   position: relative;
   perspective: 1000px;
   transform-style: preserve-3d;
-  height: calc(100% / 4 - 20px);
-  width: calc(100% / 4 - 20px);
+  height: calc(100% / 4 - 10px);
+  width: calc(100% / 4 - 10px);
 }
 .card.shake{
   animation: shake 0.35s ease-in-out;
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 120px;
+  width: 70px;
 }
 .card .back-view img{
-  max-width: 120px;
+  max-width: 70px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
