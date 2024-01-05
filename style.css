@@ -25,8 +25,8 @@ body{
   justify-content: center;
 }
 .cards{
-  height: 400px;
-  width: 400px;
+  height: 800px;
+  width: 800px;
   flex-wrap: wrap;
   justify-content: space-between;
 }
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 70px;
+  width: 190px;
 }
 .card .back-view img{
-  max-width: 70px;
+  max-width: 165px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
