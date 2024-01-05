@@ -17,7 +17,7 @@ body{
   padding: 100px;
   border-radius: 10px;
   background: #FFD700;
-  box-shadow: 0 0px 0px rgba(0,0,0,0.1);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 .cards, .card, .view{
   display: flex;
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 250px;
+  width: 200px;
 }
 .card .back-view img{
-  max-width: 250px;
+  max-width: 200px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
