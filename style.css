@@ -72,7 +72,7 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 190px;
+  width: 165px;
 }
 .card .back-view img{
   max-width: 165px;
