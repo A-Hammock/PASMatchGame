@@ -89,8 +89,8 @@ body{
 
 @media screen and (max-width: 700px) {
   .cards{
-    height: 550px;
-    width: 550px;
+    height: 350px;
+    width: 350px;
   }
   .card .front-view img{
     width: 17px;
@@ -102,8 +102,8 @@ body{
 
 @media screen and (max-width: 530px) {
   .cards{
-    height: 500px;
-    width: 500px;
+    height: 300px;
+    width: 300px;
   }
   .card .front-view img{
     width: 15px;
