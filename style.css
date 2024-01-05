@@ -14,7 +14,7 @@ body{
   background-image: url('bg.png');
 }
 .wrapper{
-  padding: 120px;
+  padding: 100px;
   border-radius: 10px;
   background: #FFD700 rgba(0, 0, 0, 0);
   box-shadow: 0 0px 0px rgba(0,0,0,0.1);
@@ -72,10 +72,10 @@ body{
   transition: transform 0.25s linear;
 }
 .card .front-view img{
-  width: 150px;
+  width: 100px;
 }
 .card .back-view img{
-  max-width: 150px;
+  max-width: 100px;
 }
 .card .back-view{
   transform: rotateY(-180deg);
