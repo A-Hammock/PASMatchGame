@@ -14,7 +14,7 @@ body{
   background-image: url('bg.png');
 }
 .wrapper{
-  padding: 100px;
+  padding: 70px;
   border-radius: 10px;
   background: none;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
