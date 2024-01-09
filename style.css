@@ -16,7 +16,7 @@ body{
 .wrapper{
   padding: 25px;
   border-radius: 10px;
-  background-image: none;
+  background: #FFFAF0;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 .cards, .card, .view{
