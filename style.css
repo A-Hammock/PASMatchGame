@@ -16,7 +16,7 @@ body{
 .wrapper{
   padding: 25px;
   border-radius: 10px;
-  background-image: url('https://i.postimg.cc/PfF0NyHx/box-1.png');
+  background-image: none;
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 .cards, .card, .view{
